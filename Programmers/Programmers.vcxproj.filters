@@ -12,5 +12,8 @@
     <ClCompile Include="바탕화면 정리.cpp">
       <Filter>Lv1</Filter>
     </ClCompile>
+    <ClCompile Include="소수 찾기.cpp">
+      <Filter>Lv1</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

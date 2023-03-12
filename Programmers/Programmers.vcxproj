@@ -129,6 +129,7 @@
   <ItemGroup>
     <ClCompile Include="대충 만든 자판.cpp" />
     <ClCompile Include="바탕화면 정리.cpp" />
+    <ClCompile Include="소수 찾기.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
