@@ -44,7 +44,7 @@ int* solution(const char* wallpaper[], size_t wallpaper_len)
         }
     }
 
-    int* answer = (int*)malloc(4);
+    int* answer = (int*)malloc(sizeof(int) * 4);
     answer[0] = minY;
     answer[1] = minX;
     answer[2] = maxY + 1;

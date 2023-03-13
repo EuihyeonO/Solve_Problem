@@ -128,6 +128,8 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="대충 만든 자판.cpp" />
+    <ClCompile Include="둘만의 암호.cpp" />
+    <ClCompile Include="문자열 내 마음대로 정렬하기.cpp" />
     <ClCompile Include="바탕화면 정리.cpp" />
     <ClCompile Include="소수 찾기.cpp" />
   </ItemGroup>
